@@ -1,0 +1,10 @@
+* cl-form-types
+
+Library for determining the types of Common Lisp forms based on information stored in the environment.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/alex-gutev/cl-form-types.git   |
+| commit  | 647a698  |
+| systems | cl-form-types |
+|---------+-------------------------------------------|
+
